@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "F3zR7mkaBJPwZF0QHNvnOSyxvF59rT6FoZ3ykbYZtQA=",
+  "Source": "coal-backend",
+  "BasePath": "_content/coal-backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
